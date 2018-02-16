@@ -21,11 +21,11 @@ main()
       
 	}
 	cout<<endl<<endl<<"Sin recursividad con while"<<endl;
-	int varWhi=10;
-	while(varWhi>=0) 
+	int varWhi=0;
+	while(varWhi>=10) 
 	{
       cout<<varWhi<<" ";
-      varWhi--;
+      varWhi++;
 	}
 	
 	cout<<endl<<endl<<"Sin recursividad con do while"<<endl;
