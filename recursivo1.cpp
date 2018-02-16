@@ -1,8 +1,8 @@
 #include <iostream>
 using namespace std;
 
-//HOLAAA!
-
+//HOLAAA!W
+//Holo :v
 void numeros(int n);
 
 
