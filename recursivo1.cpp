@@ -3,6 +3,7 @@ using namespace std;
 
 //HOLAAA!
 
+
 void numeros(int n);
 
 
@@ -30,6 +31,7 @@ main()
 	}
 	
 	cout<<endl<<endl<<"Sin recursividad con do while"<<endl;
+	cout<<"Tony dios";
 	int varDo=10;
 		do{
 			cout<<varDo<<" ";
