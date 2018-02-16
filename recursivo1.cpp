@@ -1,14 +1,14 @@
 #include <iostream>
 using namespace std;
 
-<<<<<<< HEAD
+  
 //HOLAAA!
 
 
-=======
+ 
 //HOLAAA!W
 //Holo :v
->>>>>>> c2a8e53443415c41db84345614d87611401d6fcd
+ 
 void numeros(int n);
 
 
@@ -35,7 +35,7 @@ main()
 	}
 	
 	cout<<endl<<endl<<"Sin recursividad con do while"<<endl;
-	cout<<"Tony dios";
+	cout<<"Dios Tony\n";
 	int varDo=10;
 		do{
 			cout<<varDo<<" ";
