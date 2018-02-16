@@ -1,15 +1,24 @@
 #include <iostream>
 using namespace std;
 
+//HOLAAA!
+
 void numeros(int n);
 
+
+
 main()
+
+
 {
+	
+	cout<<"HOLIWIWIS :9 "<<endl;
 	cout<<"Sin recursividad con for"<<endl;
 	int varFor = 0;
 	for( varFor = 0; varFor >= 10; varFor++) 
 	{
       cout<<varFor<<" ";
+      
 	}
 	cout<<endl<<endl<<"Sin recursividad con while"<<endl;
 	int varWhi=10;
