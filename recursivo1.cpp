@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//maldad!! :V
 void numeros(int n);
 
 main()
