@@ -3,13 +3,20 @@ using namespace std;
 
 void numeros(int n);
 
+
+
 main()
+
+
 {
+	
+	cout<<"HOLIWIWIS :9 "<<endl;
 	cout<<"Sin recursividad con for"<<endl;
 	int varFor = 10;
 	for( varFor = 10; varFor >= 0; varFor--) 
 	{
       cout<<varFor<<" ";
+      
 	}
 	
 	cout<<endl<<endl<<"Sin recursividad con while"<<endl;
