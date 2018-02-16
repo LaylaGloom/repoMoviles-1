@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
-
+//maldad!! :V
+//Ya con esto exento? :v
 void numeros(int n);
 
 
