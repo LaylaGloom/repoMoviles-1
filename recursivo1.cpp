@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
-//maldad!! :V
-//Ya con esto exento? :v
+
+//HOLAAA!
+
 void numeros(int n);
 
 
