@@ -3,8 +3,14 @@
 #include <iostream>
 using namespace std;
 
+  
 //HOLAAA!
+//MisaelPBL .-.
 
+ 
+//HOLAAA!W
+//Holo :v
+ 
 void numeros(int n);
 
 
@@ -31,6 +37,7 @@ main()
 	}
 	
 	cout<<endl<<endl<<"Sin recursividad con do while"<<endl;
+	cout<<"Dios Tony\n";
 	int varDo=10;
 		do{
 			cout<<varDo<<" ";
@@ -40,13 +47,29 @@ main()
 	cout<<endl<<endl<<"Con recursividad"<<endl;
 	//numeros(10);
 }
+/* 
 
+
+
+  *,,,,,*,,,,,*
+                '0,,,,0,,,,0
+               _||___||___||_
+        '*,,{,,,,,,,,,,,,,,,,,,,},*
+        0,,{/\/\/\/\/\/\/\/\/\/},'0     
+        _||_{________"________}_||_  
+     {/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/}
+     {,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,}
+     {/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/}
+     {_______________"_______________}
+	    Hola  Morros :v
+
+*/
 
 void numeros(int n)
 {
 	/*EJEMPLO RECURSIVIDAD*/
-	cout<<n<<" ";//Imprimimos el número y volvemos a llamar a la función
-	numeros(n-1);//Aquí aplica la recursividad
+	cout<<n<<" ";//Imprimimos el nï¿½mero y volvemos a llamar a la funciï¿½n
+	numeros(n-1);//Aquï¿½ aplica la recursividad
 	
 	
 	
@@ -64,14 +87,14 @@ void numeros(int n)
 	
 	
 	
-/*	if(n==0)//Aqui se establece el límite para salir de la recursividad
+/*	if(n==0)//Aqui se establece el lï¿½mite para salir de la recursividad
 	{
 		cout<<"0"<<" ";
 	}
 	else
 	{
-		cout<<n<<" ";//Imprimimos el número y volvemos a llamar a la función
-		numeros(n-1);//Aquí aplica la recursividad
+		cout<<n<<" ";//Imprimimos el nï¿½mero y volvemos a llamar a la funciï¿½n
+		numeros(n-1);//Aquï¿½ aplica la recursividad
 	}
 */
 		/*...............................................
