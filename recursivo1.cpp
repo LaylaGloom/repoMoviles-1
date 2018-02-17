@@ -14,9 +14,9 @@ using namespace std;
 void numeros(int n);
 
 
-
-main()
-
+/*
+main() ^°-°^
+maldadx2 */
 
 {
 	
